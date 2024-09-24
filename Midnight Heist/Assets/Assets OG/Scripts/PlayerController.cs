@@ -46,7 +46,7 @@ public class PlayerController : MonoBehaviour
             // Create a new Vector3 for the movement direction based on input
             Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
 
-            // MOve the player character by applying movement vector with speed + deltaTime
+            // Move the player character by applying movement vector with speed + deltaTime
             MovePlayer(movement);
         }
     }
