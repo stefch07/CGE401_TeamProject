@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028292, g: 0.22571306, b: 0.30692118, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028305, g: 0.22571313, b: 0.3069213, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -712,7 +712,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -2530,7 +2530,10 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 =======
 >>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 --- !u!1 &1413521612 stripped
@@ -2585,7 +2588,11 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Size: {x: 0.8038416, y: 1.84131, z: 0.5492554}
+=======
+  m_Size: {x: 1.8632812, y: 1.84131, z: 0.5492554}
+>>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 =======
   m_Size: {x: 1.8632812, y: 1.84131, z: 0.5492554}
 >>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
@@ -2599,7 +2606,11 @@ Rigidbody:
   m_GameObject: {fileID: 1413521612}
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mass: 80
+=======
+  m_Mass: 1
+>>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 =======
   m_Mass: 1
 >>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
@@ -2611,7 +2622,10 @@ Rigidbody:
   m_Constraints: 0
   m_CollisionDetection: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> c6a2d23c92599129ffc776293cd1a6c805b4e7b7
+=======
+>>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 =======
 >>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 --- !u!1 &1466351872
@@ -3389,7 +3403,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 =======
 >>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 --- !u!1001 &1600265876
@@ -3412,10 +3429,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8615050744382967045, guid: 79225588adeca7b47b72298ca489684f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 4371053692632141094, guid: 4f58ec349f8ffd94da6bc8a9a952fbcc, type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 42802d1fb6fb74383bcace8ae188a544, type: 2}
+=======
+>>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 =======
 >>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
     - target: {fileID: 6894284759113470242, guid: 4f58ec349f8ffd94da6bc8a9a952fbcc, type: 3}
@@ -3487,7 +3507,10 @@ Transform:
   m_PrefabInstance: {fileID: 1600265876}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> c6a2d23c92599129ffc776293cd1a6c805b4e7b7
+=======
+>>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 =======
 >>>>>>> parent of 9f33429 (Player and Tavern Owner Placement)
 --- !u!1001 &1630518984
